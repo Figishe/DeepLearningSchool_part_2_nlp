@@ -6,3 +6,6 @@ nltk
 scikit-learn
 jupyter 
 ipywidgets
+datasets
+matplotlib
+seaborn
